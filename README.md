@@ -59,7 +59,7 @@ O sistema monitora continuamente a presença de gás no ambiente e fornece alert
 openocd \
   -f interface/stlink.cfg \
   -f target/stm32f1x.cfg \
-  -c "program PROJETOF_gas.elf verify reset exit"
+  -c "program Debug/PROJETOF_gas.elf verify reset exit"
 ```
 
 ---
@@ -97,7 +97,7 @@ Sistema pronto.
 - Maryana Moraes Sousa
 - Ronyer Lopes Da Silva 
 
-**Professor:** Luis Rodolfo Reboucas Coutinho 
+**Professor:** Luis Rodolfo Reboucas Coutinho  
 **Disciplina:** Microcontroladores   
 **Período:** 2026.1
 
