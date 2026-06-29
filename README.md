@@ -1,4 +1,4 @@
-# 🔥 Detector de Vazamento de Gás — STM32F103C8T6
+# Detector de Vazamento de Gás 
 
 > Projeto Final — Microcontroladores  
 > Universidade Federal do Ceará
@@ -93,11 +93,11 @@ Sistema pronto.
 
 ## Equipe
 
-- MAELY VITORIA GOMES LIRA
-- MARYANA MORAES SOUSA 
-- RONYER LOPES DA SILVA 
+- Maely Vitória Gomes Lira
+- Maryana Moraes Sousa
+- Ronyer Lopes Da Silva 
 
-**Professor:** LUIS RODOLFO REBOUCAS COUTINHO 
+**Professor:** Luis Rodolfo Reboucas Coutinho 
 **Disciplina:** Microcontroladores   
 **Período:** 2026.1
 
