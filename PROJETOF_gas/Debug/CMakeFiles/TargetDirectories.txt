@@ -1,0 +1,3 @@
+/home/maryana-moraes/Documentos/UFC/9_semestre/micro/proj_final/PROJETOF_gas/Debug/CMakeFiles/PROJETOF_gas.dir
+/home/maryana-moraes/Documentos/UFC/9_semestre/micro/proj_final/PROJETOF_gas/Debug/CMakeFiles/edit_cache.dir
+/home/maryana-moraes/Documentos/UFC/9_semestre/micro/proj_final/PROJETOF_gas/Debug/CMakeFiles/rebuild_cache.dir

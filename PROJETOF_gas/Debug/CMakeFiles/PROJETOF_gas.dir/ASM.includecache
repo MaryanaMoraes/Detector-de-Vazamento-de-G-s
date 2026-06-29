@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/maryana-moraes/Documentos/UFC/9_semestre/micro/proj_final/PROJETOF_gas/Startup/startup_stm32f103c8tx.s
+
